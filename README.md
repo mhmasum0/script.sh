@@ -1,3 +1,3 @@
 # Script.sh
 
-This repository contains some usefull bash script
+This repository contains some useful bash script
